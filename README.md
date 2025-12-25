@@ -1,5 +1,5 @@
 
-# LBM3RT: Lattice Boltzmann Methods for Multiphase Multicomponent Reactive Transport
+# LBM3RT: Lattice Boltzmann Methods for Multiphase Multicomponent Reactive Transport (O4872)
 
 This repository contains a Fortran 90 code for pore-scale / micromodel simulations of **3D fluid flow–solute transport–geochemical reactions**.
 
